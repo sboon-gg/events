@@ -1,0 +1,1 @@
+*.bf2demo filter=lfs diff=lfs merge=lfs -text
